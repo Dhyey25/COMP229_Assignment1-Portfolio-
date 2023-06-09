@@ -1,9 +1,9 @@
 {
-  "name": "week3demov4",
+  "name": "dhyey-portfolio",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
+    "start": "node server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Blessing",
